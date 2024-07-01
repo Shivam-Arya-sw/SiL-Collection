@@ -1,2 +1,3 @@
 This folder is for Python language code specific only...<br>
-In this folder daily some sort of code is uploaded based on what I practiced or implementations I did.
+In this folder daily some sort of code is uploaded based on what I practiced or implementations I did.<br>
+Thank You
